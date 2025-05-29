@@ -1,5 +1,7 @@
 # [Interspeech 2025] Training-Free Voice Conversion with Factorized Optimal Transport
 
+This repository contains the source code and instructions for reproducing the results presented in our Interspeech 2025 paper "Training-Free Voice Conversion with Factorized Optimal Transport" by Alexander Lobashev, Assel Yermekova and Maria Larchenko.
+
 Abstract.
 
 This paper introduces Factorized MKL-VC, a training-free modification for kNN-VC pipeline.
