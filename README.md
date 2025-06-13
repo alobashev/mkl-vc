@@ -1,4 +1,7 @@
-# [Interspeech 2025] Training-Free Voice Conversion with Factorized Optimal Transport
+# Training-Free Voice Conversion with Factorized Optimal Transport [Interspeech 2025]
+By [Alexander Lobashev](https://linkedin.com/in/alexander-lobashev), [Assel Yermekova](https://linkedin.com/in/allessyer), [Maria Larchenko](https://scholar.google.com/citations?user=9sjCJ1IAAAAJ&hl=en)
+
+[![arXiv](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://www.arxiv.org/abs/2506.09709)
 
 This repository contains the source code and instructions for reproducing the results presented in our Interspeech 2025 paper "Training-Free Voice Conversion with Factorized Optimal Transport" by Alexander Lobashev, Assel Yermekova and Maria Larchenko.
 
