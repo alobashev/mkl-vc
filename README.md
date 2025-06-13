@@ -1,5 +1,5 @@
 # Training-Free Voice Conversion with Factorized Optimal Transport [Interspeech 2025]
-By [Alexander Lobashev](https://linkedin.com/in/alexander-lobashev), [Assel Yermekova](https://linkedin.com/in/allessyer), [Maria Larchenko](https://scholar.google.com/citations?user=9sjCJ1IAAAAJ&hl=en)
+By [Alexander Lobashev](https://www.linkedin.com/in/alexander-lobashev-45b74b172/), [Assel Yermekova](https://linkedin.com/in/allessyer), [Maria Larchenko](https://scholar.google.com/citations?user=9sjCJ1IAAAAJ&hl=en)
 
 [![arXiv](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://www.arxiv.org/abs/2506.09709)
 
