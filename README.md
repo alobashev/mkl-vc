@@ -25,6 +25,11 @@ run_inference(src_path, ref_path, result_path, batch_size=2)
 ```
 You can try different batch_size values from 2 to 16, as it may affect the quality of the result.
 
+If you are planning to use MKL-VC in production, it is recommended to apply speech enhancement to the final result.
+We experimented with  [Resemble Enhance by ResembleAI](https://huggingface.co/spaces/ResembleAI/resemble-enhance).
+The settings that we used are RK4 for CFM ODE Solver, 128 for CFM Number of Function Evaluations, 0 for CFM Prior Temperature, and checked Denoise Before Enhancement.
+With these settings, we observe that most defects of MKL-VC are mitigated.
+
 ## Citation
 ```
 @inproceedings{
