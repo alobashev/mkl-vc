@@ -19,7 +19,11 @@ gdown https://drive.google.com/uc?id=12-cB34qCTvByWT-QtOcZaqwwO21FLSqU
 wget https://github.com/bshall/knn-vc/releases/download/v0.1/prematch_g_02500000.pt
 wget https://github.com/bshall/knn-vc/releases/download/v0.1/g_02500000.pt
 ```
-Then you can run demo notebook.
+Then you can run the demo notebook. The main function for voice conversion is
+```
+run_inference(src_path, ref_path, result_path, batch_size=2)
+```
+You can try different batch_size values from 2 to 16, as it may affect the quality of the result.
 
 ## Citation
 ```
