@@ -8,6 +8,19 @@ We introduce Factorized MKL-VC, a training-free modification for kNN-VC pipeline
 
 This repository contains the source code and instructions for reproducing the results presented in our paper.
 
+## Setup guide
+
+```
+git clone git clone https://github.com/alobashev/mkl-vc
+cd mkl-vc
+cd models
+pip install --upgrade gdown
+gdown https://drive.google.com/uc?id=12-cB34qCTvByWT-QtOcZaqwwO21FLSqU
+wget https://github.com/bshall/knn-vc/releases/download/v0.1/prematch_g_02500000.pt
+wget https://github.com/bshall/knn-vc/releases/download/v0.1/g_02500000.pt
+```
+Then you can run demo notebook.
+
 ## Citation
 ```
 @inproceedings{
