@@ -31,7 +31,7 @@ The settings that we used are RK4 for CFM ODE Solver, 128 for CFM Number of Func
 With these settings, we observe that most defects of MKL-VC are mitigated.
 
 ## Poster
-![Interspeech 2025 poster](./images/MKL-VC-github.png) 
+![Interspeech 2025 poster](./images/Interspeech_2025_poster_MKL_VC-6-2.png) 
 
 ## Citation
 ```
