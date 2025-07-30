@@ -30,6 +30,9 @@ We experimented with  [Resemble Enhance by ResembleAI](https://huggingface.co/sp
 The settings that we used are RK4 for CFM ODE Solver, 128 for CFM Number of Function Evaluations, 0 for CFM Prior Temperature, and checked Denoise Before Enhancement.
 With these settings, we observe that most defects of MKL-VC are mitigated.
 
+## Poster
+![Interspeech 2025 poster](./images/MKL-VC-github.png) 
+
 ## Citation
 ```
 @inproceedings{
