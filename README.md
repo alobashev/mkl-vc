@@ -11,7 +11,7 @@ This repository contains the source code and instructions for reproducing the re
 ## Setup guide
 
 ```
-git clone git clone https://github.com/alobashev/mkl-vc
+git clone https://github.com/alobashev/mkl-vc
 cd mkl-vc
 cd models
 pip install --upgrade gdown
