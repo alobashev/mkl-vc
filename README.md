@@ -35,13 +35,14 @@ With these settings, we observe that most defects of MKL-VC are mitigated.
 
 ## Citation
 ```
-@inproceedings{
-alobashev25,
-title={Training-Free Voice Conversion with Factorized Optimal Transport},
-author={Alexander Lobashev and Assel Yermekova and Maria Larchenko},
-booktitle={Twenty sixth edition of the Interspeech Conference},
-year={2025},
-url={https://www.arxiv.org/abs/2506.09709}
+@inproceedings{lobashev25_interspeech,
+  title     = {{Training-Free Voice Conversion with Factorized Optimal Transport}},
+  author    = {Alexander Lobashev and Assel Yermekova and Maria Larchenko},
+  year      = {2025},
+  booktitle = {{Interspeech 2025}},
+  pages     = {1373--1377},
+  doi       = {10.21437/Interspeech.2025-2043},
+  issn      = {2958-1796},
 }
 ```
 
